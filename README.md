@@ -24,6 +24,6 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 📧 Email: [exemplo@garra.inc](mailto:garras599@gmail.com)  
 🔗 Site: *(em construção)*  
 📱 Instagram: [@garra.inc](https://instagram.com/garra_inc_technology)
-📞 Telefone: .[.telefone.number](81 99432-3471)
-📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
-🖇️ Linkdin: .[.Link.Linkedin.business](https://linkedin/exemple)
+-📞 Telefone: .[.telefone.number](81 99432-3471)
+-📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
+-🖇️ Linkdin: .[.Link.Linkedin.business](https://linkedin/exemple)
