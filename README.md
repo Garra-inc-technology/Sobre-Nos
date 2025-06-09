@@ -28,6 +28,6 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 - 📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
 - 🖇️ Linkdin: .[.Link.Linkedin.business](https://linkedin/exemple)
 
-##Diretoria:
+## 💼 Diretoria:
 - Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth)
 - Josias Cordeiro: .[link.github.deretoria](https://github.com/josiascordeiro)
