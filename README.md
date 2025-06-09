@@ -24,7 +24,7 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 - 📧 Email: [email](mailto:garras599@gmail.com)  
 - 🔗 Site: *(em construção)*
 - 📱 Instagram: [instagram](https://instagram.com/garra_inc_technology)
-- 📞 Telefone: .[número de telefone](81 99432-3471)
+- 📞 Telefone: 81 99432-3471
 - 📨 Watsapp: .[.whatsapp](https://wa.me/5581996656393)
 - 🖇️ Linkdin: .[Linkedin.business](https://www.linkedin.com/in/garra-inc-technology)
 
