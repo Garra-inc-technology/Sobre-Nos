@@ -27,3 +27,7 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 - 📞 Telefone: .[.telefone.number](81 99432-3471)
 - 📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
 - 🖇️ Linkdin: .[.Link.Linkedin.business](https://linkedin/exemple)
+
+##Diretoria:
+- Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth)
+- Josias Cordeiro: .[link.github.deretoria](https://github.com/josiascordeiro)
