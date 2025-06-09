@@ -26,8 +26,8 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 - 📱 Instagram: [@garra.inc](https://instagram.com/garra_inc_technology)
 - 📞 Telefone: .[.telefone.number](81 99432-3471)
 - 📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
-- 🖇️ Linkdin: .[.Link.Linkedin.business](https://linkedin/exemple)
+- 🖇️ Linkdin: .[.Link.Linkedin.business](https://www.linkedin.com/in/garra-inc-technology)
 
 ## 💼 Diretoria:
-- Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth)
+- Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth), .[user.instagram](https://instagram.com/levi_oliveira86)
 - Josias Cordeiro: .[link.github.deretoria](https://github.com/josiascordeiro)
