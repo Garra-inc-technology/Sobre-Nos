@@ -21,13 +21,13 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 ---
 
 ## 🌐 Contato
-- 📧 Email: [exemplo@garra.inc](mailto:garras599@gmail.com)  
+- 📧 Email: [email](mailto:garras599@gmail.com)  
 - 🔗 Site: *(em construção)*
-- 📱 Instagram: [@garra.inc](https://instagram.com/garra_inc_technology)
-- 📞 Telefone: .[.telefone.number](81 99432-3471)
-- 📨 Watsapp: .[.watsapp.mensage](https://wa.me/5581996656393)
-- 🖇️ Linkdin: .[.Link.Linkedin.business](https://www.linkedin.com/in/garra-inc-technology)
+- 📱 Instagram: [instagram](https://instagram.com/garra_inc_technology)
+- 📞 Telefone: .[número de telefone](81 99432-3471)
+- 📨 Watsapp: .[.whatsapp](https://wa.me/5581996656393)
+- 🖇️ Linkdin: .[Linkedin.business](https://www.linkedin.com/in/garra-inc-technology)
 
 ## 💼 Diretoria:
-- Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth), .[user.instagram](https://instagram.com/levi_oliveira86)
+- Ytallo Gabriel: .[link.github.deretoria](https://github.com/NexusStealth), .[instagram](https://instagram.com/levi_oliveira86)
 - Josias Cordeiro: .[link.github.deretoria](https://github.com/josiascordeiro)
