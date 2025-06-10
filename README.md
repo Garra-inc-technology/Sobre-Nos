@@ -22,7 +22,7 @@ Levar tecnologia de qualidade a escolas, empresas e pessoas, com segurança, cri
 
 ## 🌐 Contato
 - 📧 Email: [email](mailto:garras599@gmail.com)  
-- 🔗 Site: *(em construção)*
+- 🔗 Site: .[site](https://garrainctechnology.netlify.app/)
 - 📱 Instagram: [instagram](https://instagram.com/garra_inc_technology)
 - 📞 Telefone: 81 99432-3471
 - 📨 Watsapp: .[.whatsapp](https://wa.me/5581996656393)
